@@ -43,4 +43,4 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Lover Tools Enjoy)</br>
 
  [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
- [CODED BY Mr. NIKI]
+ [CODED BY Mr. OMAR]
